@@ -16,3 +16,6 @@ This repo is meant as a proof-of-skill project (Python + SciPy + Matplotlib + te
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -e ".[dev]"
+
+## Example output
+![Exponential decay fit](docs/decay_fit.png)
