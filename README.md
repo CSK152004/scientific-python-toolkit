@@ -19,3 +19,4 @@ pip install -e ".[dev]"
 
 ## Example output
 ![Exponential decay fit](docs/decay_fit.png)
+```
